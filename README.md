@@ -6,12 +6,12 @@
 
 Example JSON Modeling
 
-# mvn clean install
+## mvn clean install
 This requires Maven and JDK 1.8 (using lambdas's)
 
-# Package structure :
-org.risney.mckinsey.json.controller
-org.risney.mckinsey.json.model
+## Package structure :
+-org.risney.mckinsey.json.controller
+-org.risney.mckinsey.json.model
 
-# unit test
-org.risney.mckinsey.json.test
+## unit test
+-org.risney.mckinsey.json.test
