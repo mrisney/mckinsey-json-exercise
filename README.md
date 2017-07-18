@@ -1,0 +1,1 @@
+# mckinsey-json-exercise
